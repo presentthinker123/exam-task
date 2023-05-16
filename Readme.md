@@ -18,4 +18,9 @@ Use Random user API to show 3 users details in UI should refresh every 30 sec
 3. should use `useEffect` and `useState`
 
 # Marks
-TODO
+This will be fixed converted to out of 25.
+
+initial setup: 10
+UI, should use flex or grid: 20
+Criteria: 10
+Commit: 10
