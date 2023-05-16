@@ -9,3 +9,13 @@
 5. run `npm i`
 6. click `F5` aka function key 5. It will install the start `npm run dev` so we don't have to. then it also open a new chrome.
 ![setup-success-full](image/04correct-setup.png)
+
+# Question
+Use Random user API to show 3 users details in UI should refresh every 30 sec
+## Criteria
+1. show one image and one more information that enough
+2. Fetch only the required information.
+3. should use `useEffect` and `useState`
+
+# Marks
+TODO
